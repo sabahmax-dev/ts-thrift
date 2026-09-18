@@ -1,4 +1,3 @@
-
 # ts-thrift
 
 
@@ -28,7 +27,7 @@ ts-thrift -h
 ```
 
 ### Node
-```js
+```ts
 import TsThrift from 'ts-thrift';
 import fs = require('fs');
 
